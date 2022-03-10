@@ -1,5 +1,5 @@
 view: form {
-  sql_table_name: form ;;
+  sql_table_name: linq_hubspot.form ;;
 
   dimension: action {
     type: string

@@ -1,6 +1,6 @@
 
 view: email_subscription {
-  sql_table_name: email_subscription ;;
+  sql_table_name: linq_hubspot.email_subscription ;;
   drill_fields: [id]
 
   dimension: id {

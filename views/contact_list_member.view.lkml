@@ -1,5 +1,5 @@
 view: contact_list_member {
-  sql_table_name: contact_list_member ;;
+  sql_table_name: linq_hubspot.contact_list_member ;;
 
   dimension: pk {
     hidden: yes

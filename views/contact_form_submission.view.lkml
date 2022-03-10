@@ -1,5 +1,5 @@
 view: contact_form_submission {
-  sql_table_name: contact_form_submission ;;
+  sql_table_name: linq_hubspot.contact_form_submission ;;
 
   dimension: pk {
     hidden: yes

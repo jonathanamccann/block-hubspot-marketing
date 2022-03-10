@@ -1,6 +1,6 @@
 
 view: owner {
-  sql_table_name: owner ;;
+  sql_table_name: linq_hubspot.owner ;;
   drill_fields: [owner_id]
 
   dimension: owner_id {

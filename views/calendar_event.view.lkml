@@ -1,5 +1,5 @@
 view: calendar_event {
-  sql_table_name: calendar_event ;;
+  sql_table_name: linq_hubspot.calendar_event ;;
   drill_fields: [id]
 
   dimension: id {

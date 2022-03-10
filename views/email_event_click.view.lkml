@@ -1,5 +1,5 @@
 view: email_event_click {
-  sql_table_name: email_event_click ;;
+  sql_table_name: linq_hubspot.email_event_click ;;
   drill_fields: [id]
 
   dimension: id {

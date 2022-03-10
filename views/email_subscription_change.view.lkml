@@ -1,5 +1,5 @@
 view: email_subscription_change {
-  sql_table_name: email_subscription_change ;;
+  sql_table_name: linq_hubspot.email_subscription_change ;;
 
   dimension: pk {
     hidden: yes

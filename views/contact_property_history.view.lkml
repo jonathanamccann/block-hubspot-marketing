@@ -1,5 +1,5 @@
 view: contact_property_history {
-  sql_table_name: contact_property_history ;;
+  sql_table_name: linq_hubspot.contact_property_history ;;
 
   dimension: pk {
     hidden: yes
